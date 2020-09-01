@@ -12,4 +12,4 @@ sm_hnr_enabled(Default "1") --> Enable/Disable Plugin.
 Upload plugin to addons/sourcemod/plugins.\
 Put Game Server sounds into the sound on your server.\
 Put Download Server sounds into the sound on your fastdl server.\
-restart the server and you ready to play.\
+restart the server and you ready to play.
